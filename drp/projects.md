@@ -38,6 +38,11 @@ permalink: /drp/projects/
   - Mentee: Chris Pufko
   - Mentor: Ethan Zell
 
++ Representation Theory of Finite Groups
+  - Text: Representations and Characters of Groups, James and Liebeck
+  - Mentee: Jonah Newman
+  - Mentor: Liron Speyer
+
 ### Fall 2018
   
 + Support vector machines and kernel methods    
